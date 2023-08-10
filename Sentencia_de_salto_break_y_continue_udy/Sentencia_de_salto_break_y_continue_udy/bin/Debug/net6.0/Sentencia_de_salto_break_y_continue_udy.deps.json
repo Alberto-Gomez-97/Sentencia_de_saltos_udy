@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sentencia_de_salto_break_y_continue_udy/1.0.0": {
+        "runtime": {
+          "Sentencia_de_salto_break_y_continue_udy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sentencia_de_salto_break_y_continue_udy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
